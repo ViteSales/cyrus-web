@@ -6,8 +6,10 @@ require (
 	github.com/beevik/etree v1.4.1
 	github.com/gin-contrib/sessions v1.0.1
 	github.com/gin-gonic/gin v1.10.0
-	github.com/smartystreets/goconvey v1.8.1
 	github.com/spf13/viper v1.19.0
+	github.com/vitesales/cyrus v0.0.0-20241118093048-1e6acda972df
+	github.com/vitesales/cyrus-base v0.0.0-20241118092435-2a930bf96030
+	github.com/vitesales/cyrus-pool v0.0.0-20241118090959-412ad83ebe6f
 )
 
 require (
@@ -20,7 +22,6 @@ require (
 	github.com/flosch/pongo2 v0.0.0-20200913210552-0d938eb266f3 // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.6 // indirect
-	github.com/gin-contrib/pprof v1.5.1 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
@@ -31,7 +32,6 @@ require (
 	github.com/gorilla/securecookie v1.1.2 // indirect
 	github.com/gorilla/sessions v1.2.2 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
-	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/jmoiron/sqlx v1.4.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.9 // indirect
@@ -49,14 +49,10 @@ require (
 	github.com/sourcegraph/conc v0.3.0 // indirect
 	github.com/spf13/afero v1.11.0 // indirect
 	github.com/spf13/cast v1.6.0 // indirect
-	github.com/spf13/cobra v1.2.1 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/subosito/gotenv v1.6.0 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.2.12 // indirect
-	github.com/vitesales/cyrus v0.0.0-20241118093048-1e6acda972df // indirect
-	github.com/vitesales/cyrus-base v0.0.0-20241118092435-2a930bf96030 // indirect
-	github.com/vitesales/cyrus-pool v0.0.0-20241118090959-412ad83ebe6f // indirect
 	go.uber.org/multierr v1.10.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
 	golang.org/x/arch v0.12.0 // indirect
