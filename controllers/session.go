@@ -12,7 +12,7 @@ import (
 	"github.com/spf13/viper"
 	"github.com/vitesales/cyrus-pool/h"
 	"github.com/vitesales/cyrus-pool/q"
-	"github.com/vitesales/cyrus/cyrus-web/webtypes"
+	"github.com/vitesales/cyrus-web/webtypes"
 	"github.com/vitesales/cyrus/models"
 	"github.com/vitesales/cyrus/models/security"
 	"github.com/vitesales/cyrus/models/types"

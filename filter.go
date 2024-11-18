@@ -10,7 +10,7 @@ import (
 	"github.com/vitesales/cyrus-pool/h"
 	"github.com/vitesales/cyrus-pool/m"
 	"github.com/vitesales/cyrus-pool/q"
-	"github.com/vitesales/cyrus/cyrus-web/odooproxy"
+	"github.com/vitesales/cyrus-web/odooproxy"
 	"github.com/vitesales/cyrus/models"
 	"github.com/vitesales/cyrus/models/fields"
 	"github.com/vitesales/cyrus/tools/strutils"

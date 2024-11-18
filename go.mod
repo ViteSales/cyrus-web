@@ -1,4 +1,4 @@
-module github.com/vitesales/cyrus/cyrus-web
+module github.com/vitesales/cyrus-web
 
 go 1.23
 

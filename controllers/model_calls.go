@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/vitesales/cyrus/cyrus-web/domains"
-	"github.com/vitesales/cyrus/cyrus-web/odooproxy"
-	"github.com/vitesales/cyrus/cyrus-web/webtypes"
+	"github.com/vitesales/cyrus-web/domains"
+	"github.com/vitesales/cyrus-web/odooproxy"
+	"github.com/vitesales/cyrus-web/webtypes"
 	"github.com/vitesales/cyrus/models"
 	"github.com/vitesales/cyrus/models/types"
 	"github.com/vitesales/cyrus/tools/logging"

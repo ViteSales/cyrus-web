@@ -17,12 +17,12 @@ package web
 import (
 	// Loading dependencies as blank imports
 	_ "github.com/vitesales/cyrus-base"
-	"github.com/vitesales/cyrus/cyrus-web/controllers"
+	"github.com/vitesales/cyrus-web/controllers"
 	"github.com/vitesales/cyrus/i18n/translations"
 
 	// Loading controllers package
-	_ "github.com/vitesales/cyrus/cyrus-web/controllers"
-	"github.com/vitesales/cyrus/cyrus-web/scripts"
+	_ "github.com/vitesales/cyrus-web/controllers"
+	"github.com/vitesales/cyrus-web/scripts"
 	"github.com/vitesales/cyrus/server"
 	"github.com/vitesales/cyrus/tools/logging"
 )

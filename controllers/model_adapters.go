@@ -6,9 +6,9 @@ package controllers
 import (
 	"fmt"
 
-	"github.com/vitesales/cyrus/cyrus-web/domains"
-	"github.com/vitesales/cyrus/cyrus-web/odooproxy"
-	"github.com/vitesales/cyrus/cyrus-web/webtypes"
+	"github.com/vitesales/cyrus-web/domains"
+	"github.com/vitesales/cyrus-web/odooproxy"
+	"github.com/vitesales/cyrus-web/webtypes"
 	"github.com/vitesales/cyrus/models"
 )
 

@@ -7,8 +7,8 @@ import (
 	"encoding/json"
 	"fmt"
 
+	"github.com/vitesales/cyrus-web/domains"
 	"github.com/vitesales/cyrus/actions"
-	"github.com/vitesales/cyrus/cyrus-web/domains"
 	"github.com/vitesales/cyrus/models"
 	"github.com/vitesales/cyrus/models/operator"
 	"github.com/vitesales/cyrus/tools/nbutils"
